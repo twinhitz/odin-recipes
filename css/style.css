@@ -10,3 +10,17 @@ body {
     background-color: #000000;
     color: #ffffff;
 }
+
+h1 {
+    text-align: center;
+    color: #3ae2e2;
+
+
+
+}
+
+ul {
+    border: solid #a1f160;
+    color: #a1f160;
+    margin: 100px;
+}

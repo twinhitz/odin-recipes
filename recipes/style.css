@@ -1,8 +1,8 @@
 *{
     padding: 0;
     margin: 0;
-    font-size: 40px;
     box-sizing: border-box;
+    text-align: center;
 }
 
 
@@ -22,7 +22,7 @@ h1 {
 ul {
     border: solid #a1f160;
     color: #a1f160;
-    margin: 100px 500px;
+    margin: 50px 500px;
     padding: 24px;
 }
 
@@ -31,5 +31,7 @@ button {
     background-color: #ea5ff7;
     border: dotted #3ae2e2;
     font-size: 25px;
+    display: block;
+    margin: 50px auto;
 
 }
